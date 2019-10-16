@@ -7,7 +7,7 @@ This is a knowledgebase app
 ![image](register.png)
 
 ![image](Articles.png)
-![image](Addartg.png)
+![image](Addart.png)
 
 
 ## Technologies
