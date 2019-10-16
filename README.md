@@ -9,7 +9,7 @@ This is a knowledgebase app
 ![image](Articles.png)
 ![image](Addart.png)
 
-![image](database.png)
+![image](db.png)
 
 
 ## Technologies
